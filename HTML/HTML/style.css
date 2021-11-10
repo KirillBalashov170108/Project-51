@@ -1,0 +1,14 @@
+h1{
+    color:black
+}
+*{
+    border:solid
+}
+.header{
+    background-color: cornsilk;
+    display:flex;
+    justify-content:space-between
+}
+body{
+    background-color: #0c3606;
+}
